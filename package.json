@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "xlsx": "^0.18.5",
+    "xlsx-chart": "^0.4.3"
+  },
+  "name": "script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
